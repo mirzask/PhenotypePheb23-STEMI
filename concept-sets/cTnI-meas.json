@@ -1,0 +1,384 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Observable Entity",
+        "CONCEPT_CODE": "1001251000000101",
+        "CONCEPT_ID": 37398480,
+        "CONCEPT_NAME": "Plasma troponin I level",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Read",
+        "CONCEPT_CODE": "44MG.00",
+        "CONCEPT_ID": 45505216,
+        "CONCEPT_NAME": "Serum troponin I level",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "VOCABULARY_ID": "Read",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Read",
+        "CONCEPT_CODE": "44ME.00",
+        "CONCEPT_ID": 45478735,
+        "CONCEPT_NAME": "Plasma troponin I level",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "VOCABULARY_ID": "Read",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Observable Entity",
+        "CONCEPT_CODE": "1001271000000105",
+        "CONCEPT_ID": 37392221,
+        "CONCEPT_NAME": "Serum troponin I level",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "LOINC Group",
+        "CONCEPT_CODE": "LG433-9",
+        "CONCEPT_ID": 40653873,
+        "CONCEPT_NAME": "Troponin I.cardiac|MCnc|Pt|ANYBldSerPl",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+        "CONCEPT_CODE": "LP385941-2",
+        "CONCEPT_ID": 37072384,
+        "CONCEPT_NAME": "Troponin I.cardiac | Blood | Chemistry - non-challenge",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+        "CONCEPT_CODE": "LP385943-8",
+        "CONCEPT_ID": 37076644,
+        "CONCEPT_NAME": "Troponin I.cardiac | Serum, Plasma or Blood | Chemistry - non-challenge",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+        "CONCEPT_CODE": "LP385942-0",
+        "CONCEPT_ID": 37063873,
+        "CONCEPT_NAME": "Troponin I.cardiac | Serum or Plasma | Chemistry - non-challenge",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+        "CONCEPT_CODE": "LP387080-7",
+        "CONCEPT_ID": 37040477,
+        "CONCEPT_NAME": "Troponin I.cardiac panel | Serum or Plasma | Chemistry Panels",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "74720-4",
+        "CONCEPT_ID": 44816618,
+        "CONCEPT_NAME": "Device name",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2014-02-25",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "89581-3",
+        "CONCEPT_ID": 36306083,
+        "CONCEPT_NAME": "Laboratory device 99th percentile URL",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2018-06-14",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "89580-5",
+        "CONCEPT_ID": 36304551,
+        "CONCEPT_NAME": "Laboratory device Coefficient of variation at 99th percentile URL",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2018-06-14",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "87706-8",
+        "CONCEPT_ID": 36304105,
+        "CONCEPT_NAME": "Laboratory device Detection limit",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2018-06-14",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "74719-6",
+        "CONCEPT_ID": 44816617,
+        "CONCEPT_NAME": "Manufacturer name",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2014-02-25",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Lab Test",
+        "CONCEPT_CODE": "89578-9",
+        "CONCEPT_ID": 36304114,
+        "CONCEPT_NAME": "Troponin I.cardiac [Interpretation] in Serum or Plasma Qualitative by High sensitivity method",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2018-06-14",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Lab Test",
+        "CONCEPT_CODE": "89579-7",
+        "CONCEPT_ID": 36306105,
+        "CONCEPT_NAME": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2018-06-14",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Lab Test",
+        "CONCEPT_CODE": "89577-1",
+        "CONCEPT_ID": 36305612,
+        "CONCEPT_NAME": "Troponin I.cardiac panel - Serum or Plasma by High sensitivity method",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2018-06-14",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "67716-1",
+        "CONCEPT_ID": 40770326,
+        "CONCEPT_NAME": "Vendor device model",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2011-07-26",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "74717-0",
+        "CONCEPT_ID": 44816615,
+        "CONCEPT_NAME": "Vendor model number",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2014-02-25",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "74715-4",
+        "CONCEPT_ID": 44816613,
+        "CONCEPT_NAME": "Vendor serial number",
+        "DOMAIN_ID": "Measurement",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC",
+        "VALID_START_DATE": "2014-02-25",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    }
+  ]
+}

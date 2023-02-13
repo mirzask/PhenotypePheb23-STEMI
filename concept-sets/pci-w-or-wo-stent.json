@@ -1,0 +1,707 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "36969009",
+        "CONCEPT_ID": 4283892,
+        "CONCEPT_NAME": "Placement of stent in coronary artery",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "HCPCS",
+        "CONCEPT_CODE": "C9604",
+        "CONCEPT_ID": 43533186,
+        "CONCEPT_NAME": "Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of drug-eluting intracoronary stent, atherectomy and angioplasty, including distal protection when perform...",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "HCPCS",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Pharma/Biol Product",
+        "CONCEPT_CODE": "411191007",
+        "CONCEPT_ID": 4131681,
+        "CONCEPT_NAME": "Drug eluting stent",
+        "DOMAIN_ID": "Device",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "CPT4",
+        "CONCEPT_CODE": "92943",
+        "CONCEPT_ID": 43528003,
+        "CONCEPT_NAME": "Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; single vessel",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "CPT4",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "33367005",
+        "CONCEPT_ID": 4142645,
+        "CONCEPT_NAME": "Coronary angiography",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Physical Object",
+        "CONCEPT_CODE": "464052002",
+        "CONCEPT_ID": 45759034,
+        "CONCEPT_NAME": "Bare metal coronary artery stent",
+        "DOMAIN_ID": "Device",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "232727003",
+        "CONCEPT_ID": 4337739,
+        "CONCEPT_NAME": "Percutaneous directional coronary atherectomy",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "41339005",
+        "CONCEPT_ID": 4184832,
+        "CONCEPT_NAME": "Coronary angioplasty",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "HCPCS",
+        "CONCEPT_CODE": "C9607",
+        "CONCEPT_ID": 43533354,
+        "CONCEPT_NAME": "Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of drug-eluting intracoronary stent, atherectomy and angioplasty; single vessel",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "HCPCS",
+        "VALID_START_DATE": "",
+        "VALID_END_DATE": ""
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B221ZZZ",
+        "CONCEPT_ID": 2785821,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B2210ZZ",
+        "CONCEPT_ID": 2785815,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries using High Osmolar Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B22100Z",
+        "CONCEPT_ID": 2785814,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries using High Osmolar Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B221Z2Z",
+        "CONCEPT_ID": 2785820,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Intravascular Optical Coherence",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B2211ZZ",
+        "CONCEPT_ID": 2785817,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Low Osmolar Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B22110Z",
+        "CONCEPT_ID": 2785816,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Low Osmolar Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B221YZZ",
+        "CONCEPT_ID": 2785819,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Other Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B221Y0Z",
+        "CONCEPT_ID": 2785818,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Other Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B223ZZZ",
+        "CONCEPT_ID": 2785829,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B2230ZZ",
+        "CONCEPT_ID": 2785823,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B22300Z",
+        "CONCEPT_ID": 2785822,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B223Z2Z",
+        "CONCEPT_ID": 2785828,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Intravascular Optical Coherence",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B2231ZZ",
+        "CONCEPT_ID": 2785825,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B22310Z",
+        "CONCEPT_ID": 2785824,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B223YZZ",
+        "CONCEPT_ID": 2785827,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Other Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B223Y0Z",
+        "CONCEPT_ID": 2785826,
+        "CONCEPT_NAME": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Other Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B231ZZZ",
+        "CONCEPT_ID": 2785841,
+        "CONCEPT_NAME": "Magnetic Resonance Imaging (MRI) of Multiple Coronary Arteries",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B231YZZ",
+        "CONCEPT_ID": 2785840,
+        "CONCEPT_NAME": "Magnetic Resonance Imaging (MRI) of Multiple Coronary Arteries using Other Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B231Y0Z",
+        "CONCEPT_ID": 2785839,
+        "CONCEPT_NAME": "Magnetic Resonance Imaging (MRI) of Multiple Coronary Arteries using Other Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B233ZZZ",
+        "CONCEPT_ID": 2785844,
+        "CONCEPT_NAME": "Magnetic Resonance Imaging (MRI) of Multiple Coronary Artery Bypass Grafts",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B233YZZ",
+        "CONCEPT_ID": 2785843,
+        "CONCEPT_NAME": "Magnetic Resonance Imaging (MRI) of Multiple Coronary Artery Bypass Grafts using Other Contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ICD10PCS",
+        "CONCEPT_CODE": "B233Y0Z",
+        "CONCEPT_ID": 2785842,
+        "CONCEPT_NAME": "Magnetic Resonance Imaging (MRI) of Multiple Coronary Artery Bypass Grafts using Other Contrast, Unenhanced and Enhanced",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "ICD10PCS",
+        "VALID_START_DATE": "2014-04-21",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "438530000",
+        "CONCEPT_ID": 4235230,
+        "CONCEPT_NAME": "MR angiography of coronary artery bypass graft",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2009-01-30",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "419997008",
+        "CONCEPT_ID": 4171885,
+        "CONCEPT_NAME": "MRI angiography of coronary arteries",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2006-01-30",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "440074009",
+        "CONCEPT_ID": 4260103,
+        "CONCEPT_NAME": "Nonsurgical reduction of cardiac septum for hypertrophic obstructive cardiomyopathy with coronary arteriogram",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2009-01-30",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "765113006",
+        "CONCEPT_ID": 35622887,
+        "CONCEPT_NAME": "Prospectively electrocardiogram gated computed tomography arteriography of coronary artery with contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2018-07-30",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "CPT4",
+        "CONCEPT_CODE": "33507",
+        "CONCEPT_ID": 2107213,
+        "CONCEPT_NAME": "Repair of anomalous (eg, intramural) aortic origin of coronary artery by unroofing or translocation",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "CPT4",
+        "VALID_START_DATE": "2006-02-12",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Procedure",
+        "CONCEPT_CODE": "764970007",
+        "CONCEPT_ID": 35622787,
+        "CONCEPT_NAME": "Retrospectively electrocardiogram gated computed tomography arteriography of coronary artery with contrast",
+        "DOMAIN_ID": "Procedure",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED",
+        "VALID_START_DATE": "2018-07-30",
+        "VALID_END_DATE": "2099-12-30"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    }
+  ]
+}
