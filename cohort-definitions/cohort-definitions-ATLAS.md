@@ -39,7 +39,7 @@ header-includes:
 
 - Inclusion Criteria
   
-  - Age >= 18 yo
+  - Age ≥ 18 yo
   - First time they got a STEMI ICD Code
     - Stipulated 1 day before or 1 day after index event date
 
@@ -119,15 +119,15 @@ header-includes:
       
       - Concept set is in: `cTnI-meas.json`
       
-      - >= 30 ng/L
+      - ≥ 30 ng/L
         
-        - or cTnI >= 0.03 ng/mL (pay attention to different units)
+        - or cTnI ≥ 0.03 ng/mL (pay attention to different units)
     
     - Cardiac Troponin T (cTnT) [^trop-assays]
       
       - Concept set is in: `cTnT-meas.json`
       
-      - >= 16 ng/L
+      - ≥ 16 ng/L
   
   - ~~ECG ordered → ST elevation or other ST equivalent finding~~
     
